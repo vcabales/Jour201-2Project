@@ -51,15 +51,19 @@ p.lead {
 
 #video {
 	margin-left: 10vw;
+	margin-bottom: 0;
 }
 
 .video-content h3 {
 	color: white;
 	padding-right: 1vw;
 	background: rgba(0, 0, 0, 0.8);
-	padding-left: 2vw;
+	padding-left: 1vw;
 	padding-top: 2vh;
 	padding-bottom: 5vh;
+	width: 66vw;
+	margin-left: 10vw;
+	margin-top: 0;
 }
 
 #spencer {
@@ -88,4 +92,9 @@ audio {
 #audio2 {
 	float: right;
 	margin-left: 1vw;
+}
+
+.featurette-divider {
+	margin-top: 4vh;
+	margin-bottom: 5vh;
 }
