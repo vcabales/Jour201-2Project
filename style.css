@@ -1,6 +1,23 @@
 .header-image {
 	margin-top: -7vh;
+	background-image: url(img/loren_ayala.jpg);
 }
 
+
 #video {
+}
+
+p.lead {
+	font-size: 1.3em;
+}
+
+#caption {
+	float: right;
+	/* margin-left: 47vw;*/
+	padding-left: 0vw;
+	width: 45vw;
+	padding-right: 5vw;
+	margin-left: 5vw;
+	padding-left: 8vw;
+	padding-top: 0.5vw;
 }
